@@ -8,6 +8,7 @@ body {
 }
 
 .Hello-logo {
+    font-family: "Waste of time";
     animation: Hello-spin infinite 20s linear;
     height: 80px;
 }
